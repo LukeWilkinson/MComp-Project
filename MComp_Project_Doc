@@ -1,0 +1,230 @@
+https://onedrive.live.com/redir?resid=AC421B29FB7BF63C!1454&authkey=!AAg_nft-T6M5x0Y&ithint=folder%2cdocx
+
+Title Title Title
+Title Title Title
+20th May 2016
+
+Luke Wilkinson
+WIL11253009
+MComp Games Computing
+School of Computer Science
+University of Lincoln
+Supervisor: Dr. John Shearer
+1. Abstract
+This project intends to explore and analyse the effects and influences that different forms of crowds could present to someone playing video games, looking to see if the different forms of crowd could affect the players experience or gameplay in various ways. Crowds can be present in many different forms when games are being played, whether that be a large crowd at a sporting event, a group of friends watching someone play a video game, people observing a streamed game, crowds of people present in the world when playing location based games or simulated crowds in video games, each of these forms of crowds could potentially affect the game in play in a number of different ways.
+Keywords
+Words words words.
+
+1.	Abstract
+2.	Background and in-depth literature review
+3.	Methodology – project management, software dev, toolsets, research
+4.	Design, development and evaluation - subject recruitment, ethics, study design, detailed description of procedure, experiment result, analysis or results
+5.	Project conclusion
+6.	Reflective analysis
+7.	References
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+Contents
+1. Abstract	2
+Keywords	2
+2. Background and Literature Review	5
+2.1 Non-players and the environment	5
+2.1.1 Types of Non-players	5
+2.1.2 Non-players in practice	6
+2.2 Crowds	7
+2.3 Social facilitation	8
+2.3.1 Audience effects research	9
+2.3.2 Co-action effects	9
+2.3.3 Social Facilitation Models	10
+2.3.4 Monitoring	11
+3. Methodologies	12
+3.1 Project Management	12
+3.1.1 Gantt Chart	12
+3.1.2 Task List	13
+3.1.3 Brainstorming	14
+3.2 Toolsets and Machine Environments	14
+3.2.1 Audio Software	14
+3.2.2 Streaming software	15
+3.3 Research Methods	16
+4. Design, Development and Evaluation	19
+4.1 Design	19
+4.1.1 Participant recruitment	19
+4.1.2 Ethical procedures	20
+4.1.3 Study design	20
+4.1.4 Results of the experiment	22
+4.2 Evaluation	23
+4.2.1 Expected Results	23
+4.2.2 Actual Results	23
+5. Conclusion/Implications	23
+6. Reflective Analysis	23
+7. References	24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Background and Literature Review
+This paper will look into a number of interesting concepts involved around players and non-players in games, and the factors that can or are being introduced while a game is taking place. Obviously in any game the player offers a lot of influence to a game when they are playing it, this paper hopes to find out if non-players spectating players can affect the games state and how non-players could be used within game design, considering the influence they may or may not have on an ongoing game.
+2.1 Non-players and the environment
+Non-players are people that are not necessarily taking part in a game, but are present in some when the game is in play. There are a number of different types of non-players, each potentially effecting the game in different possible ways. This project is looking heavily into the role of the spectator, which is defined by Montola as someone who is aware of the game in play, and can offer assistance in the form of encouragement or offering player’s information, but has no direct influence on the game (Montola et al, 2006). 
+2.1.1 Types of Non-players
+Audience member, spectator, referee, manager, bystander. All of these are terms to describe a ‘non-player’. Non-players can be defined under a few different categories, which could change depending on the game being played and the situation or circumstances of the game. A non-player is someone that is present while a game is being played, non-players can have varying effects on the game in play, depending on what type of non-player they fall under. Non-players can be compared to non-playable characters (NPC’s) in video games (Wilkinson, 2015). They are people or characters that could provide information, goals, items/prizes, rules to be upheld or they may not even be required to the game and may seem to have no purpose (Niemi et al, 2005). 
+2.1.1.1 Spectators
+A spectator is a non-player that is actively watching the game in play, either alone or in a group to make up an audience or crowd. Spectators can be physically present or watching from a broadcast of the game, generally common in most major sports. As a spectator, people can offer encouragement or discouragement by cheering or booing for different teams/players, spectators can also potentially provide critical or tactical information about the game in play through verbally and or visually communicating with players (Montola & Waern, 2006).
+2.1.1.2 Referees
+Referees, umpires and arbitrators are non-players that have much more impact on the fate of a game, ensuring that all the players are following the rules of the game whilst playing, and if a rule is broken the referee has the power to stop the game and decide to award penalties or punishments to players. The principle duty of a referee has been said to be the person that decides questions of fact that apply to the rules of the game in play, the manner in which the referee performs their duties can have a substantial effect on the result of a game (United States Golf Association).
+2.1.1.3 Managers
+Managers are present in everyday business life, not just in sports and game, however the manager role is pretty universal with the key responsibilities and duties that a manager has, no matter what environment they are managing. Fayol’s definition a manager’s role is that a manager is to forecast and to plan, to organise, to command, to co-ordinate and to control (Krishna, 2001). Teams need managers to help them strategize the best plans and methods of completing tasks, or reaching goals. Managers have a lot of power over players in some games, deciding where players are allowed to play, a manager hires and fires players, motivates players and co-ordinates/directs players in the game so that they can play their best.
+2.1.1.4 Bystanders
+Bystanders, whether they are aware or not of the on-going game could potentially affect the game or the players, even though bystanders generally have no intention or opportunity to participate in the game at hand (Montola & Waern, 2006). Bystanders are similar to spectators with the amount of influence that they could potentially provide to a game, however bystanders normally have little to no interest in the game in hand, and just so happen to be present when there is a game in play.
+2.1.2 Non-players in practice
+Non-players are not usually a focus within game design, observers may be considered, and rules may need to be implemented that may require a referee to enforce them, but it is rare that non-players will be utilised as a mechanic within a game. Blowtooth was a game designed with the intention of using non-players as a vital game play aspect. In this game players must smuggle virtual drugs through real airport security with the help of unknowing bystanders. Players will plant small amounts of virtual contraband items on other passenger’s phones using Bluetooth, once players make it through airport security they must find the passengers they planted the contraband items on and retrieve the items. Points were awarded based on how many of the items the reclaim and the length of time taken to retrieve the items (Linehan et al, 2010). This game uses non-players in a very interesting way, the game would not be playable without non-players, and it is also interesting to have a game that can only be played in a specific setting, like how some sports can only be played in certain arenas or surfaces, for instance ice hockey and curling need to be played on ice. With this use of non-players in a game about smuggling fake contraband items past real security, it adds a degree of suspense and difficulty to the players, doing something that not in game would be considered highly illegal.
+Shhh! Is a pervasive game that was designed to play with the social rules of built environments, similar to how Blowtooth used airports specifically as an area of play, a place you would not necessarily think would be an appropriate place to play a game. Shhh! was inspired by the juvenile game bogies/bollocks where players would shout out a word, and who ever shouted the word the loudest won. Shhh! proposed the same concept, however the game was developed as a mobile app that could track how loud the sound a person made was. The game was also designed to be played specifically in libraries, a location specifically known as a place that people should be quiet in. This pervasive game proposed mechanics specifically opposing the social rules present in the environment, potentially disrupting a number of non-players that may be present in the library when the game is in play, providing potential awkward, interesting, provocative experiences for players and possibly non-players too. Players stated that during and after playing the game they had a heightened awareness of the social rules present in the environment, so they tried to find creative ways of making loud sounds that the app could track, that would not break the social rules in the environment. However even with players facing this complex social dilemma they still showed a willingness to play the game and enjoyed in doing so (Linehan et al, 2013).
+2.2 Crowds
+An audience or crowd is defined as a group of people who gather together to listen to something (such as a concert) or watch something (such as a movie or play): the people who attend a performance (Webster Dictionary, 2015). Crowds regarding video games are generally seen as non-players or co-actors, generally providing players with motivation or demotivation whilst playing a game. Players and non-players can experience a range of responses when playing video games, physically and emotionally from both the excitement and rushed derived from the act or playing the game and also from the awareness and responses they experience when playing a game in front of other people.
+Players and potentially non-players involved in any game can be physically affected by the state of the game in a number of different ways, no matter if the game was designed to be physically straining on the player or not, e.g. exertion games. In an exertion framework, Mueller et al (2011) attempted to clearly define exertion interactions by putting them into four different lenses/bodies of interaction whilst playing or considering exertion games. The four lenses consist of the responding body, the moving body, the sensing body and the relating body. When playing games players and potentially non-players could be feel the effect of any number of these lenses.
+The responding body is a view of the body from the inside, it is how the internal state of the body changes as a result of physical exertion, including increased heart rate, sweating, more frequent breathing, which could result in affecting players in real life, potentially causing weight loss and increased muscle mass, which expands from the ‘magic circle’ (Montola, 2005) of game play and potentially effecting the player in real life.
+The moving body focuses on the muscular response and reaction the body has to an activity based on things such as: the space a person is in, the amount of effort required to complete a task, the time required to complete a task and the continuousness of the task. The higher the intensity of either the space, weight, time or continuousness (Loke et al, 2007) the more the person will have to think before performing a task.
+The sensing body describes how a player is sensing and experiencing the world around them, aiming to give contextual perspective to players in the environment they’re playing in. For example running on a treadmill is not the same as running through the park, the sensing body highlights a person’s interactions with the world, alerting the body’s awareness of the environment that the body is experiencing during an activity.
+The relating body combines the way in which bodies and people relate to one another through digital technology, this lens looks into the effects the body has in social situations when completing activities, including player interactions with co-players, opponents and audiences (Sheridan & Bryan-Kinns, 2008). It has been found that joint exertion can contribute positively to social outcomes, this could also be the case for many interactions, not specifically those involving exertion (Mueller et al, 2011).
+2.3 Social facilitation
+Zajonc (1965) looked into a lot of research within the area of social facilitation and found that different research could be classified in terms of two experimental paradigms: audience effects and co-action effects. Audience effects examines the observation behaviour that an actor presents while in the presence of passive spectators. Co-action effects examines the behaviour felt from an actor when in the presence of another person completing the same task or in the same situation.
+2.3.1 Audience effects research
+In a test looking into social facilitation and audience effects, Travis (1925) trained over 20 subjects to use a stylus to accurately follow a target, if a subject’s stylus was off target at any point it was noted as an error within the test. Once the subjects had received adequate training they were asked to perform the same task again, 5 times alone and 10 times inform of a group of 4-8 graduate students and upperclassmen. After these tests had concluded Travis found a clear increase in subject performance and accuracy whilst they were being observed by a spectating audience, with subjects accuracy scores being higher than any of the previous highest scoring trials.
+In a similar style of test Bergum and Lehr (1963) ran a test with National Guard trainees, this test was designed to observe the subjects observational skills. Each subject was seated in front of a panel that had 20 lamps in a circle, the lamps would complete a sequence of 12 revolutions going clockwise, with 23 lights on average failing to light at random intervals per hour. The subject’s task was to signal whenever a light failed to turn on in its sequence in the space of 135 minutes. The subjects were split into 2 groups, the first group would complete their task completely alone, the second group would occasionally be observed by a Lieutenant Colonel or Master Sargent 4 times throughout the test. On average Bergum and Lehr found that the group that was observed was on average 34 percent more accurate compared to the group of subjects that completed the test completely alone.
+2.3.2 Co-action effects
+Co-action effects looks into individuals completing the same task at the same time in the presence of the other individual. There is a clear natural instinct that has been found and documented by numerous researchers. Harlow (1932) examined the eating habits of a number of albino rats hoping to find if there was any difference in the rats eating habits when there was another rat present eating from the same food source. The rats were paired up by weight class, each pair was fed separately then in their pairs on alternating days. From the experiment Harlow found that the rats ate a considerable amount more when they were eating in pairs, compared to when they were eating alone.
+In an experiment looking into co-action effects, Chen (1937) observed ants working in solitary and in groups of two’s and three’s, which were each studied whilst under different test conditions. The ants were placed in bottles filled half way with sandy soil. The ants were observed for a total of six hours, where the time they started to build their nests, and the amount of earth the ant’s had excavated were documented. Two days later the ants were placed in fresh bottles of soil this time in pairs of two, with the same observations being documented. This process was repeated again a few days later but in pairs of three. FIGURE X shows that the amount of work accomplished by ants in pairs is an exceptionally amount more than when working in solitary, in almost every case the amount of work accomplished doubled when the ants worked in pairs. This shows clear natural, instinctual signs of co-action effects, the ants instinctively worked harder and better when there was an observer present completing the same task. This could either be through working together to accomplish the same goal, or through drive and determination to ensure that they were working just as hard as their partner, if not harder.
+ 
+2.3.3 Social Facilitation Models
+There have been many different tests within the area of physical activity that have looked into social facilitation. Which makes sense, the world of sports is widely observed all over the globe, with giant stadiums for professionals to play sports in whilst being observed by a large physical crowd and an even larger crowd watching the event on televisions. In a test exploring social facilitation between athletes Triplett (1898) observed racing cyclists while riding in two different scenarios, whilst alone and whilst accompanied by a pacemaker. Triplett found that cyclists that were accompanied by a pacemaker were at least 25% faster than the cyclists riding alone, because of this, Triplett proposed that the physical presence of another person sharpened the cyclist’s competitive instincts. Triplett’s findings fit in with Zajonc’s Generalized Drive Hypothesis which states that the mere presence of others would increase the general drive and activation level of an actor (Zajonc, 1965).
+Some researchers had some initial doubts about Zajonc’s Generalized Drive Hypothesis, stating that the ‘mere presence’ of an observer increased the general drive and activation level of an actor. Henchy and Glass (1968) argued that the general drive or activation level increased only when actors were afraid of being evaluated by an audience (evaluation apprehension). This approach states that an observer or audience would have no effect on an actor if they were not actively observing and judging the actor performing whatever task they are completing. Cottrell el at. (1968) tried to form a more general approach to the situation, proposing their so-called Learned Drive Hypothesis, which stated that activation should increase when actors were able to associate an audience with evaluations of their performance. The differences with this hypothesis compared to Henchy and Glass’s evaluation is that actors should not fear any evaluation that an audience has positive or negative (Strauss, 2002).
+2.3.4 Monitoring
+While Zajonc’s (1965) hypothesis may not have been perceived as 100% accurate in the world of social facilitation research, many researchers found Zajonc’s hypothesis useful to question and add to. Another researcher with some doubts about Zajonc’s initial hypothesis was Guerin (1983), who was developing a ‘monitoring model’ within the social facilitation field. The monitoring model was specifically designed to look at the effects on actors when observers are present, and also when the actor can observe the observers. The monitoring model states that “Social facilitation effects will not occur when the situation does not trigger uncertainty” (Guerin, 1983), explaining that this is the case particularly when an actor knows the person(s) present observing the situation or if the actor is familiar with the task or situation and is able to observe the others present continuously. If the actor cannot monitor the observer(s), especially if the actor is not familiar to the task or situation, then the actor may become uncertain and their awareness of the situation will increase. Guerin was able to confirm the monitoring model hypothesis, however only for complex tasks, finding that the actors with the worst performances had all experienced uncertainty whilst completing the tasks. Guerin tested the hypothesis using simple and complex pair-association tasks that Cottrell et al (1968) had used.
+e-sports – description, crowds at e-sports, streaming, streaming technology
+3. Methodologies
+3.1 Project Management
+“Project management is the process of planning, organizing and managing tasks and resources to accomplish a defined objective” (Kumar, 2013). If a project is to succeed it must be properly planned and organized. There are a number of methods and tools that can be utilized to effectively reach the goals of the project, different project management methods will be applied and utilized within this project, ensuring that this project is completed to the highest standard possible.
+Project management is essential when undertaking any project, project management is extremely useful for ensuring that a project stays on track with all the key aspects of the project given adequate time allocated to them to easily stay on track to meet final deadlines. Out of the many different methods that could be applied to lay out tasks and milestones, this project will be utilizing a Gantt chart as the main project management method, as a Gantt chart allows people to see when deadlines are expected to be completed, and the progress that is being made throughout the project at a glance.
+A task list will also be produced for use within this project. The task list will breaks down the different aspects of the project, putting them into different categories and subcategories, making it easy to see what work has and has not been completed in which areas of the final project, giving an overall view of the tasks that may require more time or attention so that they can be completed to the highest standard with enough time to be fully completed within the project lifecycle.
+Brainstorming will also be a key part of this project, looking into a lot of the aspects of the project detailed within the Gantt chart and the task list, brainstorming is a technique that uses multiple peoples combined efforts to find a solution or conclusion to a specified problem, possibly compiling a list of spontaneous ideas with possible solutions and outcomes that could potentially be used. 
+3.1.1 Gantt Chart
+A Gantt chart was developed and utilised to ensure that the project stayed on track, being sure to make sure that each deadline and goal was achievable within a realistic time frame, leaving enough time within each deadline just in case additional time was needed. Having a Gantt chart also ensured that the project had minimal unnecessary changes made throughout the project lifecycle. As shown below (FIGURE X) the Gantt chart splits the project up into several clear manageable chunks, making it easy and clear for researchers to see at a glance what part of the project they should be working on at what time.
+
+3.1.2 Task List
+ 
+3.1.3 Brainstorming
+As detailed above, brainstorming is the act of group members coming together to compare ideas on how to fix a specified problem. The brainstorming section of this project will look into topics including (but not limited to): how to run the tests, how long the test should be; how many participants could be required to gather adequate enough research; what game should be played; structuring of development of the questionnaire; the design of the pilot tests. Brainstorming will be completed only when the head researched feels it is needed, and any brainstorming will be completed with either a project supervisor or a group of peers.
+3.2 Toolsets and Machine Environments
+There were a number of different aspects of this project that required a piece of software, mainly during the testing phases of the project. Pilot tests were set up to test the different possible software tools found that could have potentially been used within the project. Below are tables outlining and comparing the software found, being sure that the software used in the full user testing stage was adequate enough for the tests to be successful.
+3.2.1 Audio Software
+Audio software was needed to produce and edit audio for the simulated crowd sounds that were used in the user tests of this project. 
+Software	Accessibility	Exportable to MP3	Open source & cross platform	Researcher experience
+				
+Audacity	Freely available from the internet	Yes	Yes	Good
+WavePad	Free version available from the internet	Yes	Cross platform	None
+Music Editor	Freely available from the internet	Yes	Open source	None
+
+It was decided that audacity would be the tool used for this part of the project. Audacity seemed to be the most appropriate tool to use, meeting all the requirements needed to help within the project, as well as the researcher having experience with the software.
+3.2.2 Streaming software
+The streaming software used to stream the game to the audience is of great importance to this project, as the project is all about how different audiences could affect how a player plays a game, and if the audience cannot see the game then there would be no project. The game needs to be streamed to both the small and large audience at the same time, the audiences cannot be in the same room as the player as this would just make a larger crowd, and being able to interact with the audience could also affect how the player is playing, this project is only looking into the affects an audience could have on the player, without them being able to interact with or influence the audience, as some times the audience was manipulated as part of the project.
+Software	Accessibility	Audience feedback
+		
+Skype	Freely available from the internet	Audio/visual/text
+Twitch	Freely available on the internet	Text
+Open Broadcast Software	Freely available from the internet	None
+Google Hangouts	Freely available on the internet	Audio/visual/test
+
+From the list of software above it is clear to see that twitch and open broadcast software are not going to be adequate enough for this project. For this project the feedback from the audience is crowd audio. Skype and Google Hangouts were both adequate enough, with pretty much the same capabilities. Skype was chosen out of the two solely because the research already has an account, the software and experience with the software.
+3.3 Research Methods
+As this project is looking into the many different factors that could possibly affect a player when playing a video game with an observing crowd, there will be quantitative data collected in the form of game play statistics, most likely just the end result of the game, which subject won and which subject lost. There will also be some, somewhat quantitative data collected in the form of an ordinal questionnaire, which will consist of qualitative questions with ordinal quantitative answers detailing how players perceived the game and how immersed they were when playing the game, looking into the affects that the crowds had on the different subjects.
+The main focus of the research for this project will be based around the qualitative answers provided from the questionnaire. The reason for this is because this project is interesting in the player’s experience, and how they felt and perceived the game and the gameplay environment when participating in the study, and the different affects that the different crowds could have potentially provided to the subjects. Quantitative data is useful in gathering statistics and finding facts, however qualitative data allows the data collected to be more descriptive and in depth, which will be more useful to this project looking into the way that subjects think and feel.
+Once the testing is finished the subjects that played the games will be given a short questionnaire to complete. The questionnaire consists of 13 questions, subjects are required to answer the questions with relevant number values. The end result from this questionnaire may technically give back numerical data, however the questions and the range that the answers allow make the feedback from this questionnaire more qualitative than quantitative. The questionnaire composed uses a number of questions influenced by and taken from the immersive experience questionnaire (IEQ) (Jennett et al, 2008), as the IEQ measures the subjective experience of being immersed whilst playing a video game. As this questionnaire was originally designed to get information on games which had been created, there were a lot of questions that seemed irrelevant for the purposes of this project. However there were many questions that fit well for this project, as this project is looking into the experience that the player is having, but it is not fully focused on the gameplay experience that the player is having. Below is the questionnaire that was given to the test subjects (FIGURE X).
+ 
+As this project is looking into the different factors that could affect a player when playing video games, the quantitative result of each game would be relevant to see if there was any effect on the player’s gameplay. Below is a table showing the results of the single elimination tournament, listing the final scores of each game (FIGURE X).
+
+
+This data shows the results of the final testing process, displaying which subjects were playing in which games, which crowd audio the subject was hearing when they played, whether the crowd was manipulated or not and the final scores of the games. The test cases and crowd manipulation were spread somewhat randomly but evenly in an attempt to make sure the subjects would be exposed to multiple cases, preferably with no subject having the same crowd manipulation and test case.
+3.3.1.1 Qualitative Quantitative data collection
+
+ 
+The data collected shown above can be perceived as objective data and subjective data because of the questions asked and the range the answers allow. Each subject showed differing results when answering the questions in the questionnaire and when playing the game, this shows that each subject’s experience was unique, with each player having different feelings and perceptions of how they experienced the gameplay environment. However the numerical format of the answers to the questionnaire shows the results as a measurable, objective data format.
+Objective/observable data or subjective/self-reported data
+Subjective data – information from the client’s point of view (feelings, perceptions, concerns obtained by interviews)
+Objective data – observable and measurable data, obtained through observation, physical examinations and laboratory and diagnostic testing
+Form of data – nominal, ordinal, interval or ratio
+Representing your results
+Experimental analysis – what are the independent and dependent variables
+Between-groups or within-groups approach
+Statistically analyse your results
+4. Design, Development and Evaluation
+Scientific research report
+4.1 Design
+4.1.1 Participant recruitment
+For this project there was quite a large number of volunteers needed for participation within this project. 8 participants were needed to play the game in the single elimination tournament, between 4 and 7 participants that knew the 8 participants playing the game were needed to be the small crowd, and 7 or more participants were needed to be the large crowd. All of the participants found were peers of the primary researcher of this project, there were 8 player participants found, 4 small crowd participants found and 8 large crowd participants found. A suitable time was allocated months before the final testing would take place, ensuring that most/all of the participants would be able to participate in the testing process of this project.
+4.1.2 Ethical procedures
+Once the participants were recruited, an informed consent form was produced for participants to sign, giving their consent for data that they produce to be used for the purposes of this project. The document clearly covers all aspects of the project that participants will be part of, detailing the information taken from the testing process, stating what data will and will not be used within this project. The Consent form was completed by all the participants that were involved in the playing of the game within these tests, as these were the only participants that were producing data that would be recorded and utilized within this project,
+4.1.3 Study design
+Project management methods were decided upon once the project preparation had been concluded. A brainstorming session was conducted within a meeting to decide the next steps for the project, it was decided that a Gantt chart and a task list should be composed, made up of all of the different tasks that would need to be completed within the project before the final project deadline. These tools were used to ensure that all milestones and deadlines were met with enough time and preparation to ensure that all work was completed to the highest standard.
+Pilot tests were designed and run to ensure that the testing phase of this project was feasible. These pilot tests allowed the software researched for this project to be fully tested, ensuring that all the features and functions researched worked as intended for the purposes of this project. Multiple computers were set up in different rooms and the computers we connected via a skype call, one computer ran the game and shared its screen, testing whether the other computers were able to see the shared view, also looking to see if there was any lag in the connection or if the quality. There were some slight issues with lag and quality of the video, but the view that the audience could see was more than adequate for the purposes of the tests for this project.
+Once the pilot tests were completed, a test plan was composed to decide the final state of the tests. Multiple alterations were made to the test plan, mainly revolving around the audiences and how they would view the game in play. Pre-recorded crowd audio was always a part of this project, so no major changes were made involving the pre-recorded crowd audio. There were discussions about having two sets of small crowds and large crowds, one case where the crowd was physically present observing the participants playing the game and one case where the crowds would not be present and just have their audio streamed to the player’s and have the game streamed to them. Through brainstorming these approaches were considered, however even though it was agreed upon that a physical crowd could potentially be an additional factor to the tests, it was decided that this project should keep all the crowds audio based. This makes all the crowds the same, including the pre-recorded crowd, and it will also be less taxing to the project, as more participants will be required, or participants would be required to stay for double the amount of time, which may or may not be possible for a lot of the volunteers. So it was decided that the information gained from the audio based crowds would be sufficient enough for this project, and it will also fit into a better overall theme instead of having crowds physically present, when some of the crowds cannot be physically present.
+The final test plan consisted of three different test cases, these being a pre-recorded crowd, a small crowd and a large crowd. The different crowds would also occasionally be manipulated as part of the tests, requiring the crowd members to cheer for or against a specific team or player. It was decided that crowd manipulation would be a part of these tests because this would hopefully expose the players to a different perception of crowds, even though it may have been a crowd that have heard audio from before.
+The game chosen for participants to play for these tests was Rocket League (Psyonix, 2015), the decision of what game to use was decided based on a number of factors, first of all it should be a game that most of the participants have little to no experience in, making the games as fair as possible, secondly the game should be a game that could be played casually or competitively, as to mimic the style of audio environments present during the study, the small crowd would be present during a fairly casual game, however with a large crowd present it would most likely be considered a competitive game, like an eSports game, as most eSports game are played in front of large crowds. The game was decided to be played in the form of a 1 v 1 single elimination tournament, this would provide adequate enough information from the project, whilst also not taking up too much time of the willing participants. The overall tournament lasted just over 2 hours.
+The order of when which player would hear which crowd audio was slightly ordered and slightly randomised, this was to ensure that the players could experience as many of the different possible test cases and audio sources as possible. In the first round all of the test cases would be new to the subjects, depending on which subject passed which round, that would determine the test case for the next game, if a player won their first game playing with non-manipulated large crowd audio, their next test case would not be a large crowd, but still may or may not be a manipulated crowd. However although the audience members were not manipulated they still may have decided to cheer for a specific team or colour themselves.
+The pre-recorded audio test case was made up of a number of sound clips taken from the website freesound.org (Font et al, 2013), all sounds on this site are protected under the Creative Commons licence where users are free to use these sounds for any purpose, even commercially, so long as appropriate credit is provided. The pre-recorded audio consisted of a looping background audio track, to give a large stadium crowd aesthetic, with cheering and booing tracks that would be triggered by the researcher depending on the crowd manipulation, if there was no crowd manipulation, a quite cheer on top of the looping background audio would play whenever any team scored or was close to scoring.
+4.1.4 Results of the experiment
+4.1.4.1 Expected Results
+From the research gathered on non-players and social facilitation the expectation of the final results from the test was that people’s play style would be affected in a number of different possible ways by the addition of a crowd observing them playing a game. In game there were a number of expected possible outcomes including: subjects with the small crowd test case would be put under a large amount of pressure to perform, as the audience would be able to interact with the player on a more personal level; subjects experiencing no crowd manipulation would be under less pressure than those with a manipulated crowd; 
+With all the tests planned and the participants gathered, the testing could begin. First of all below is a diagram of the results of the games played including the test cases that subjects were experiencing (FIGURE X). These 
+ 
+Analysis or results
+4.2 Evaluation
+words
+4.2.1 Expected Results
+Words words words.
+4.2.2 Actual Results
+Words words words.
+
+5. Conclusion/Implications
+Words words words.
+6. Reflective Analysis
+Words words words
+7. References
+Bergum, B.O. and Lehr, D.J., 1963. Effects of authoritarianism on vigilance performance. Journal of Applied Psychology, 47(1), p.75.
+Chen, S.C., 1937. Social modification of the activity of ants in nest-building. Physiological Zoology, 10(4), pp.420-436.
+Cottrell, N.B., Wack, D.L., Sekerak, G.J. and Rittle, R.H., 1968. Social facilitation of dominant responses by the presence of an audience and the mere presence of others. Journal of personality and social psychology, 9(3), p.245.
+Font, F., Roma, G. and Serra, X., 2013, October. Freesound technical demo. In Proceedings of the 21st acm international conference on multimedia (pp. 411-412). ACM. [Accessed 11 February 2016]
+Guerin, B., 1983. Social facilitation and social monitoring: A test of three models. British Journal of Social Psychology, 22(3), pp.203-214.
+Harlow, H.F., 1932. Social facilitation of feeding in the albino rat. The Pedagogical Seminary and Journal of Genetic Psychology, 41(1), pp.211-221.
+Henchy, T. and Glass, D.C., 1968. Evaluation apprehension and the social facilitation of dominant and subordinate responses. Journal of personality and social psychology, 10(4), pp.446-454.
+Jennett, C., Cox, A. L., Cairns, P., Dhoparee, S., Epps, A., Tijs, T., & Walton, A. (2008). Measuring and defining the experience of immersion in games. International journal of human-computer studies, 66(9), 641-661.
+Linehan, C. Kirman, B. Lawson, S. & Doughty, M. (2010). Blowtooth: Pervasive gaming in unique and challenging environments. In CHI’10 Extended Abstracts on Human Factors in Computing Systems (pp. 2695 - 2704).
+Linehan, C., Bull, N. and Kirman, B., 2013. BOLLOCKS!! Designing pervasive games that play with the social rules of built environments. In Advances in Computer Entertainment (pp. 123-137). Springer International Publishing.
+Montola, M. & Waern, A. (2006). Participant roles in socially expanded games. In Third International Workshop on Pervasive Gaming Applications, Pervasive Conference (pp. 165-173).
+Psyonix (2015) Rocket League. [Online game] San Diego, California, USA: Psyonix. [Accessed 1 March 2016]
+Strauss, B., 2002. Social facilitation in motor tasks: a review of research and theory. Psychology of sport and exercise, 3(3), pp.237-256.
+Travis. L. E. (1925). The effect of a small audience upon eye-hand coordination. The Journal of Abnormal and Social Psychology, 20, 142-146.
+Triplett, N., 1898. The dynamogenic factors in pacemaking and competition. The American journal of psychology, 9(4), pp.507-533.
+Zajonc, R.B., 1965. Social facilitation. Research Center for Group Dynamics, Institute for Social Research, University of Michigan.
